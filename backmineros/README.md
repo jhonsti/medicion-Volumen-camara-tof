@@ -1,10 +1,8 @@
 # Back-End Mineros Intecol.SAS
 
-Aplicación Asp.Net para el Back-end de mineros.
+Aplicación Asp.Net para el Back-end.
 
-<img src="./assets/logoIntecol.jpeg" alt="Logo Intecol" width="300" height="65">
 
-<img src="./assets/MinerosColombia.png" alt="Logo Mineros" width="300" height="174">
 
 ## Requisitos
 
