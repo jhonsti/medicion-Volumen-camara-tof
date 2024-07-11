@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\jhonnatan\\Github\\VolumenMineros\\backmineros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A363416E-2A04-4789-93E2-DE83E9303DEA}|BackMineros.csproj|c:\\users\\usuario\\documents\\jhonnatan\\github\\volumenmineros\\backmineros\\controllers\\volumencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A363416E-2A04-4789-93E2-DE83E9303DEA}|BackMineros.csproj|solutionrelative:controllers\\volumencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A363416E-2A04-4789-93E2-DE83E9303DEA}|BackMineros.csproj|c:\\users\\usuario\\documents\\jhonnatan\\github\\volumenmineros\\backmineros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A363416E-2A04-4789-93E2-DE83E9303DEA}|BackMineros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A363416E-2A04-4789-93E2-DE83E9303DEA}|BackMineros.csproj|c:\\users\\usuario\\documents\\jhonnatan\\github\\volumenmineros\\backmineros\\models\\volumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A363416E-2A04-4789-93E2-DE83E9303DEA}|BackMineros.csproj|solutionrelative:models\\volumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A363416E-2A04-4789-93E2-DE83E9303DEA}|BackMineros.csproj|c:\\users\\usuario\\documents\\jhonnatan\\github\\volumenmineros\\backmineros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A363416E-2A04-4789-93E2-DE83E9303DEA}|BackMineros.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\jhonnatan\\Github\\VolumenMineros\\backmineros\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\jhonnatan\\Github\\VolumenMineros\\backmineros\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:13:56.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VolumenController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\jhonnatan\\Github\\VolumenMineros\\backmineros\\Controllers\\VolumenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VolumenController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\jhonnatan\\Github\\VolumenMineros\\backmineros\\Controllers\\VolumenController.cs",
+              "RelativeToolTip": "Controllers\\VolumenController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAIwJYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:35:52.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\jhonnatan\\Github\\VolumenMineros\\backmineros\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\jhonnatan\\Github\\VolumenMineros\\backmineros\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T20:55:31.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Volumen.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\jhonnatan\\Github\\VolumenMineros\\backmineros\\Models\\Volumen.cs",
+              "RelativeDocumentMoniker": "Models\\Volumen.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\jhonnatan\\Github\\VolumenMineros\\backmineros\\Models\\Volumen.cs",
+              "RelativeToolTip": "Models\\Volumen.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:38:43.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
